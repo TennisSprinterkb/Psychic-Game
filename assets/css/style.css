@@ -1,5 +1,6 @@
 body {
-    background:blueviolet
+    background: purple;
+    font-family: 'cursive', 'Arial', Arial, Helvetica, sans-serif;
 }
 img {
     width:28%;
@@ -11,4 +12,10 @@ img {
 #game {
     text-align: center;
     text-decoration-color: #FF4500;
+}
+
+#bg {
+    background: url('../images/morocco-blue.png');
+    font-family: cursive;
+    color: #FF4500;
 }
