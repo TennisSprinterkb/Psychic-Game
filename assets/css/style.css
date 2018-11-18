@@ -1,5 +1,5 @@
 body {
-    background: purple;
+    background: url('../images/morocco-blue.png');
     font-family: 'cursive', 'Arial', Arial, Helvetica, sans-serif;
 }
 img {
@@ -15,7 +15,8 @@ img {
 }
 
 #bg {
-    background: url('../images/morocco-blue.png');
+    background:url('/assets/images/connectwork.png');
+    padding: 20px;
     font-family: cursive;
     color: #FF4500;
 }
