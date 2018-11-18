@@ -1,0 +1,14 @@
+body {
+    background:blueviolet
+}
+img {
+    width:28%;
+}
+.cabeza {
+    text-align:center;
+}
+
+#game {
+    text-align: center;
+    text-decoration-color: #FF4500;
+}
