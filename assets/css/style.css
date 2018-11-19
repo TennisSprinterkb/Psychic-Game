@@ -1,6 +1,7 @@
 body {
-    background: url('../images/morocco-blue.png');
+    background: palevioletred;
     font-family: 'cursive', 'Arial', Arial, Helvetica, sans-serif;
+    text-decoration-color: #FF4500;
 }
 img {
     width:28%;
@@ -15,8 +16,20 @@ img {
 }
 
 #bg {
-    background:url('/assets/images/connectwork.png');
     padding: 20px;
     font-family: cursive;
-    color: rgb(8, 8, 8);
+    color: rgb(61, 212, 223);
+}
+h1 {
+    margin-bottom: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: green;
+}
+
+footer {
+    color: green;
+    padding: 30px;
+    text-align: center;
 }
